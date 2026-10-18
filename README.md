@@ -50,18 +50,6 @@ Soy estudiante de segundo curso del **Grado Superior en Desarrollo de Aplicacion
 - 🤖 **Inteligencia artificial aplicada al desarrollo:** aprendiendo a utilizar la IA como herramienta para ampliar el alcance y la calidad de mis futuros proyectos.
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucherpar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucherpar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lucherpar&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucherpar/lucherpar/output/github-snake-dark.svg" />
@@ -69,6 +57,12 @@ Soy estudiante de segundo curso del **Grado Superior en Desarrollo de Aplicacion
     <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/lucherpar/lucherpar/output/github-snake.svg" />
   </picture>
 </p>
+<!--
+## 📊 Estadísticas de GitHub
+
+(aquí va todo el contenido de la sección)
+-->
+
 
 ---
 
