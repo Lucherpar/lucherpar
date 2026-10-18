@@ -58,6 +58,12 @@ Soy estudiante de segundo curso del **Grado Superior en Desarrollo de Aplicacion
 ## 🚀 Proyectos destacados
 Cuando quieras añadir proyectos, descomenta esta sección y rellénala:
 - **[Nombre del proyecto](https://github.com/lucherpar/nombre-repo):** breve descripción. `Tecnologías`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucherpar/lucherpar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucherpar/lucherpar/output/github-snake.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/lucherpar/lucherpar/output/github-snake.svg" />
+</picture>
 -->
  
 <p align="center">
