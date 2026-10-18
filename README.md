@@ -34,15 +34,6 @@ Soy estudiante de segundo curso del **Grado Superior en Desarrollo de Aplicacion
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,java,spring,nodejs,mysql,git,github,vscode" alt="Tecnologías" />
 </p>
 
-| Área | Tecnologías | Nivel |
-|------|-------------|-------|
-| Frontend | HTML, CSS, JavaScript | Base sólida |
-| Frontend (frameworks) | React, Angular | En aprendizaje |
-| Backend | Java, Spring Boot | Intermedio |
-| Backend | Node.js | En aprendizaje |
-| Bases de datos | MySQL | Intermedio |
-| Herramientas | Git, GitHub, VS Code | Uso diario |
-
 ---
 
 ## 🔭 Aprendiendo e investigando
